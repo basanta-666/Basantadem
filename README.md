@@ -1,4 +1,4 @@
 # Basantademo
 This is my first repository
-<brt>
+<br>
 Author- Basanta Paudell
